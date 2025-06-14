@@ -144,7 +144,7 @@ int main() {
                 cout << "Opcion de empleado incorrecto\n";
                 continue;
         }
-        
+        // Terminado los case
         // Mostrar resultados con dos decimales
         cout << fixed << setprecision(2);
         cout << "\nSueldo mensual es: L. " << sueldoMensual << endl;
